@@ -178,5 +178,5 @@ MEDIA_ROOT = BASE_DIR / 'media'
 # EMAIL_HOST = 'smtp.gmail.com'
 # EMAIL_PORT = True
 # EMAIL_HOST_USER = 'developer.mayukh06@gmail.com'
-# EMAIL_HOST_PASSWORD = 'sTZz+D+WB@R-Mj8k'
+# EMAIL_HOST_PASSWORD = '*******'
 # EMAIL_USE_TLS = True
